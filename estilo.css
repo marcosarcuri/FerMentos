@@ -1,0 +1,76 @@
+body {
+  font-family: poppins;
+}
+
+.navbar-toggler {
+    border-color: grey;
+}
+
+.nav-link {
+    color: white;
+    cursor: pointer;
+    margin-left: 40px;
+    font-family: poppins;
+    font-weight: 100;
+    font-size: medium;
+}
+
+.nav-link:hover{
+    color: #19C795;
+}
+
+button {
+  background-color: #19C795;
+}
+
+.card-title {
+  font-weight: 600;
+  font-size: medium;
+  color: #19C795;
+}
+
+.menu a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: medium;
+
+}
+
+.menu a:hover{
+    color: #19C795;
+}
+
+.no-gutter {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+
+.icon {
+    list-style: none;
+    text-decoration: none;
+    margin-left: 40px;
+    margin-top: 10px;
+  }
+
+.icon:hover {
+    transform: scale(1.5);
+  }
+
+  .footer {
+    min-width: 100%;
+  }
+
+  .copyright {
+    color: white;
+    font-family: poppins;
+    font-size: small;
+    font-weight: 200;
+    margin-top: 10px;
+  }
+
